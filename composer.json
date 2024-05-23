@@ -1,0 +1,17 @@
+{
+    "name": "do/create_file",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.23"
+    },
+    "authors": [
+        {
+            "name": "Digital Octane"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "7.3"
+        }
+    }
+}
